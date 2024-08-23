@@ -7,4 +7,16 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- background -->
+    <color name="window_backgroud">#0d2b45</color>
+    <color name="io_background">#ffecd6</color>
+    <color name="button_background">#203c56</color>
+    <color name="button_background_left">#d08159</color>
+
+    <!-- text -->
+    <color name="postfix">#203c56</color>
+    <color name="result">#FF000000</color>
+    <color name="text">#FFFFFFFF</color>
+    <color name="text_left">#FFFFFFFF</color>
 </resources>
